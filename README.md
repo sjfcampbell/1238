@@ -9,9 +9,9 @@
 ## Schedule
 
 -Monday
- -12:00-2:00 [IT Essentials 1151](https://learn.georgebrown.ca/d2l/home/515478)
- -2:00-4:00 [Fund of Comp Logic 1236](https://learn.georgebrown.ca/d2l/home/514711)
- -4:00-6:00 [Intro to Data MGMT 1238](https://learn.georgebrown.ca/d2l/home/513886)
+ -12:00-2:00[IT Essentials 1151](https://learn.georgebrown.ca/d2l/home/515478)
+ -2:00-4:00[Fund of Comp Logic 1236](https://learn.georgebrown.ca/d2l/home/514711)
+ -4:00-6:00[Intro to Data MGMT 1238](https://learn.georgebrown.ca/d2l/home/513886)
 
 -Tuesday
  -
